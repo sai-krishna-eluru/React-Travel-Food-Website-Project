@@ -1,0 +1,21 @@
+#app {
+  background-color: aliceblue;
+}
+
+/* .Names-container {
+  background: #fff;
+  padding-bottom: 10px;
+} */
+
+.vd {
+  /* background: #333; */
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.h1 {
+  font-size: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
